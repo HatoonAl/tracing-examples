@@ -12,7 +12,7 @@
   "author": "SignalFx, Inc.",
   "license": "Apache-2.0",
   "dependencies": {
-    "mongoose": "^5.4.17",
+    "mongoose": "^6.0.4",
     "nodemon": "^1.18.10",
     "request": "^2.88.0",
     "signalfx-tracing": ">=0.0.3",
