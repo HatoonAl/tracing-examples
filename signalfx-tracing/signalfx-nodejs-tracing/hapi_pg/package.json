@@ -18,6 +18,6 @@
     "@hapi/joi": "^15.0.3",
     "pg": "^7.10.0",
     "signalfx-tracing": "latest",
-    "yargs": "^13.2.2"
+    "yargs": "^15.0.1"
   }
 }
