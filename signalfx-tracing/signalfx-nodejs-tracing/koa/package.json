@@ -21,6 +21,6 @@
     "node-wordnet": "^0.1.12",
     "signalfx-tracing": "latest",
     "wndb-with-exceptions": "^3.0.2",
-    "yargs": "^13.2.2"
+    "yargs": "^15.0.1"
   }
 }
