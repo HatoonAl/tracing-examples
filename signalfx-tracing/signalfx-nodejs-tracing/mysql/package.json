@@ -11,7 +11,7 @@
     "mysql": "^2.16.0",
     "mysql2": "^1.6.5",
     "signalfx-tracing": "latest",
-    "yargs": "^13.2.2"
+    "yargs": "^15.0.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
