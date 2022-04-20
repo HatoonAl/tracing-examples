@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@hapi/boom": "^7.4.2",
-    "@hapi/hapi": "^18.3.1",
+    "@hapi/hapi": "^19.0.0",
     "@hapi/joi": "^15.0.3",
     "pg": "^7.10.0",
     "signalfx-tracing": "latest",
