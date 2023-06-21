@@ -16,7 +16,7 @@
     "@hapi/boom": "^7.4.2",
     "@hapi/hapi": "^18.3.1",
     "@hapi/joi": "^15.0.3",
-    "pg": "^7.10.0",
+    "pg": "^8.4.0",
     "signalfx-tracing": "latest",
     "yargs": "^13.2.2"
   }
