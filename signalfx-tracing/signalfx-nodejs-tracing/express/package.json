@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "body-parser": ">=1.0.0",
-    "express": ">=4.0.0",
+    "express": ">=4.21.1",
     "signalfx-tracing": "latest",
     "uuid": "^3.4.0",
     "yargs": "^13.2.1"
